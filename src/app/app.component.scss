@@ -1,0 +1,14 @@
+.container {
+  width: 30%;
+  .md-form {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    button,input {
+        margin: 10px auto;
+    }
+  }
+}
